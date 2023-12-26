@@ -10,6 +10,7 @@ html {
 
 .page {
   inline-size: 1200px;
+  max-height: 800px;
   block-size: 100%;
   margin: auto;
   color: #fff;
@@ -38,8 +39,9 @@ ol {
 }
 
 .content {
-  margin-top: 133px;
   padding: 0 30px 0;
+  margin-top: 133px;
+  margin-bottom: 133px;
   display: grid;
   grid-template-columns: 711px 1fr;
   gap: 30px;
@@ -95,7 +97,7 @@ ol {
 }
 
 .content__details {
-  height: 100%;
+  max-height: 534px;
 }
 
 .content__video-card {
