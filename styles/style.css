@@ -190,13 +190,11 @@ ol {
 
 .search-form__textfield::placeholder {
   content: '';
-  appearance: none;
   color: rgba(255, 255, 255, 0.70);
   width: 225px;
 }
 
 .search-form__textfield:active {
-  appearance: none;
   outline: 1px solid #fff;
   border: 0;
 }
@@ -228,7 +226,6 @@ ol {
 
 .search-form__checkbox[type='checkbox']:checked+.search-form__pseudo-checkbox {
   content: '';
-  appearance: none;
   display: inline-block;
   background-position: center;
   background: #fff;
