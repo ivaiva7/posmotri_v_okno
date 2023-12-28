@@ -14,7 +14,7 @@ html {
   block-size: 100%;
   margin: auto;
   color: #fff;
-  font-family: 'Fira Sans Condensed', sans-serif;
+  font-family: 'Fira Sans Condensed', Arial, sans-serif;
   font-size: 18px;
   background-color: #1b1919;
 }
@@ -172,7 +172,7 @@ ol {
 .search-form__textfield {
   appearance: none;
   color: #fff;
-  font-family: 'Fira Sans Condensed', sans-serif;
+  font-family: 'Fira Sans Condensed', Arial, sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: normal;
@@ -241,7 +241,7 @@ ol {
   cursor: pointer;
   color: #fff;
   text-align: center;
-  font-family: 'Fira Sans Condensed', sans-serif;
+  font-family: 'Fira Sans Condensed', Arial, sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: normal;
@@ -297,7 +297,7 @@ ol {
 }
 
 .title {
-  font-family: Oswald, sans-serif;
+  font-family: Oswald, 'Roboto Condensed', sans-serif;
   font-size: 75px;
   font-weight: 700;
   line-height: 0.94;
@@ -309,7 +309,7 @@ ol {
 
 .content__accent {
   color: #545050;
-  font-family: Oswald, sans-serif;
+  font-family: Oswald, 'Roboto Condensed', sans-serif;
   font-size: 75px;
   font-weight: 700;
   line-height: 0.94;
@@ -317,7 +317,7 @@ ol {
 }
 
 .content__video-card-title {
-  font-family: Oswald, sans-serif;
+  font-family: Oswald, 'Roboto Condensed', sans-serif;
   font-size: 30px;
   font-style: normal;
   font-weight: 700;
